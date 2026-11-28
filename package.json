@@ -4,7 +4,7 @@
   },
   "description": "毎日お題を投稿して雑談を活性化する Discord Bot (まぶさば用)",
   "devDependencies": {
-    "@types/node": "26.6.6",
+    "@types/node": "26.6.10",
     "prettier": "3.10.1",
     "tsx": "4.23.15",
     "typescript": "7.0.2"
